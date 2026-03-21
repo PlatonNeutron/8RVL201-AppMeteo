@@ -14,7 +14,7 @@ Une application de météo en realité virtuelle sous Unity dans le cadre du cou
     - XR Interaction Toolkit 3.3.1
     - XR Hands 1.7.3
 
-## Déplacements
+## Déplacements :
 
 Nous avons fait le choix de partir sur des déplacements continues afin de n'avoir à utiliser que les controllers pour se déplacer.
 
@@ -29,3 +29,14 @@ Nous avons fait le choix de partir sur des déplacements continues afin de n'avo
    2. Bouton: Contrôle
    3. Bouton: Contrôle
    4. Bouton: Contrôle
+
+## Crédits :
+
+### Développeurs :
+
+- Platon Neutron
+- Walf
+
+### Assets :
+
+- [Dark Wave Paint - Table 01](https://assetstore.unity.com/packages/3d/props/dark-wave-paint-table-01-306300)
