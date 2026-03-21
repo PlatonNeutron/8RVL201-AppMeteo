@@ -13,3 +13,19 @@ Une application de météo en realité virtuelle sous Unity dans le cadre du cou
     - OpenXR Plugin 1.16.1
     - XR Interaction Toolkit 3.3.1
     - XR Hands 1.7.3
+
+## Déplacements
+
+Nous avons fait le choix de partir sur des déplacements continues afin de n'avoir à utiliser que les controllers pour se déplacer.
+
+1. Manette Gauche
+   1. Bouton: Contrôle
+   2. Bouton: Contrôle
+   3. Bouton: Contrôle
+   4. Bouton: Contrôle
+
+2. Manette Droite
+   1. Bouton: Contrôle
+   2. Bouton: Contrôle
+   3. Bouton: Contrôle
+   4. Bouton: Contrôle
