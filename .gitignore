@@ -10,6 +10,7 @@ meteo/[Bb]uild/
 meteo/[Bb]uilds/
 meteo/[Ll]ogs/
 meteo/[Uu]ser[Ss]ettings/
+meteo/UserSettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
