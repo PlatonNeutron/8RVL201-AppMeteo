@@ -19,16 +19,8 @@ Une application de météo en realité virtuelle sous Unity dans le cadre du cou
 Nous avons fait le choix de partir sur des déplacements continues afin de n'avoir à utiliser que les controllers pour se déplacer.
 
 1. Manette Gauche
-   1. Bouton: Contrôle
-   2. Bouton: Contrôle
-   3. Bouton: Contrôle
-   4. Bouton: Contrôle
-
-2. Manette Droite
-   1. Bouton: Contrôle
-   2. Bouton: Contrôle
-   3. Bouton: Contrôle
-   4. Bouton: Contrôle
+   1. Possibilitée d'attraper avec le controller gauche la plante, ce qui permet d'afficher les information météo.
+   2. Possibilitée d'attraper avec le controller gauche la poignée de la porte et de la tirer vers soit pour l'ouvrir.
 
 ## Crédits :
 
