@@ -41,3 +41,4 @@ Nous avons fait le choix de partir sur des déplacements continues afin de n'avo
 
 - [Dark Wave Paint - Table 01](https://assetstore.unity.com/packages/3d/props/dark-wave-paint-table-01-306300)
 - [Stylized Plants in Pots](https://assetstore.unity.com/packages/3d/vegetation/flowers/stylized-plants-in-pots-207656)
+- [Awesome Lamps and Light Pack](https://assetstore.unity.com/packages/3d/props/awesome-lamps-and-light-pack-264218)
