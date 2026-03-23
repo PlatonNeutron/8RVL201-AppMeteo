@@ -69,6 +69,8 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"select"
+	"Right "
 	"Activate"
 	"Select"
 	"Activate val"
